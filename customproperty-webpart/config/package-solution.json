@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "customproperty-webpart-client-side-solution",
+    "id": "76bf8cdc-92cf-4ec7-89c5-42ece8787b48",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "customproperty-webpart.spapp"
+  }
+}

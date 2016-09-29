@@ -1,0 +1,21 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "9e63f49b-cde6-4250-8856-2a518e623ebe",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "9e63f49b-cde6-4250-8856-2a518e623ebe",
+    "group": { "default": "Under Development" },
+    "title": { "default": "DemoCustomProerties" },
+    "description": { "default": "Demo Custom Proerties description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "About Me",
+      "age":23,
+      "name" :"Enter Name"
+    }
+  }]
+}
