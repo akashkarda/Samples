@@ -1,3 +1,4 @@
+require('set-webpack-public-path!');
 import * as React from 'react';
 import * as ReactDom from 'react-dom';
 import {
@@ -10,6 +11,7 @@ import {
 import * as strings from 'mystrings';
 import DocumentCardExample, { IDocumentCardExampleProps } from './components/DocumentCardExample';
 import { IDocumentCardExampleWebPartProps } from './IDocumentCardExampleWebPartProps';
+
 
 export default class DocumentCardExampleWebPart extends BaseClientSideWebPart<IDocumentCardExampleWebPartProps> {
 
