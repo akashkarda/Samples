@@ -17,10 +17,11 @@ This package produces the following:
 * dist/* - a single bundle containing the components used for uploading to a cdn pointing a registered Sharepoint webpart library to.
 * example/* a test page that hosts all components in this package.
 
-### Build options
+### Build options below
 
 gulp nuke - TODO
 gulp test - TODO
 gulp watch - TODO
 gulp build - TODO
 gulp deploy - TODO
+
